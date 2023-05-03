@@ -1,0 +1,41 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image:url(Resimler/KullanıcıGirişArkaPlan.jpg)
+        
+}
+.kutu{
+    width: 1920px;
+    height: 935px;
+
+    
+    
+}
+.div1 {
+    background: rgba(255, 255, 255, 0.507);
+    height: 500px;
+    width: 400px;
+    margin:auto;
+    border-radius:20px;
+    margin-top: 100px;
+    text-align: center;
+    box-shadow: 0 0 20px;
+    
+    
+    
+    
+    
+}
+.Girisyapstyle{
+    background-color:rgba(0, 81, 255, 0.404);
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+.KullanıcıGirişiStyle{
+    background-color: rgba(0, 81, 255, 0.404);
+    margin-bottom: 70px;
+    border-radius: 10px;
+    text-align: center;
+}
